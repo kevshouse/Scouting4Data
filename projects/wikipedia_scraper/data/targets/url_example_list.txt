@@ -1,0 +1,7 @@
+
+    "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "https://this-is-a-fake-url-that-will-fail.com",  # This will trigger a ConnectionError
+    "https://en.wikipedia.org/wiki/Data_science",
+    "https://en.wikipedia.org/wiki/Web_scraping",
+    "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "https://en.wikipedia.org/wiki/Machine_learning"
