@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Data Extraction Specifics ---
+# Ignore raw and processed data files to keep the repo light
+*.csv
+*.xlsx
+*.json
+*.xml
+
+# Keep a data folder structure but ignore the contents
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
