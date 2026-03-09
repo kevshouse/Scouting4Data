@@ -1,3 +1,5 @@
+"I am a Junior Data Engineer focused on building resilient, self-documenting data extraction pipelines. This repository demonstrates my proficiency in Python, ETL (Extract, Transform, Load) processes, and operational monitoring via structured logging."
+
 # Scouting4Data# 🕸️ Web Data Extraction Portfolio
 
 A collection of professional Python scripts designed for structured data collection, cleaning, and automation.
